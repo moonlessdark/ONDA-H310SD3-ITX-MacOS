@@ -1,0 +1,444 @@
+/* Class = "NSTextField"; title = "Always the latest Kexts for your Hackintosh"; ObjectID = "vlM-oF-beS"; */
+"vlM-oF-beS.title" = "让你的黑苹果总是保持最新的Kext";
+
+/* Class = "NSTextField"; title = "Credits"; ObjectID = "qmh-1i-ylA"; */
+"qmh-1i-ylA.title" = "开发: Sascha Lamprecht 脚本: NoirOSX 图标: Nio82 汉化:虫眼QQ16319197";
+
+/* Class = "NSTextField"; title = "© 2018 Sascha Lamprecht"; ObjectID = "6Ez-cv-Yob"; */
+"6Ez-cv-Yob.title" = "© 2018 Sascha Lamprecht";
+
+/* Class = "NSButton"; title = "Check for Updates"; ObjectID = "AuD-6W-583"; */
+"AuD-6W-583.title" = "检测更新";
+
+/* Class = "NSButton"; title = "Load Basic Kexts"; ObjectID = "tgP-dd-FH8"; */
+"tgP-dd-FH8.title" = "载入基本Kexts";
+
+/* Class = "NSButton"; title = "Load Audio Kexts"; ObjectID = "fqJ-G4-Tp5"; */
+"fqJ-G4-Tp5.title" = "载入音频Kexts";
+
+/* Class = "NSButton"; title = "Load Intel Kexts"; ObjectID = "N94-zg-VcZ"; */
+"N94-zg-VcZ.title" = "载入Intel Kexts";
+
+/* Class = "NSButton"; title = "Load nVidia Kexts"; ObjectID = "Rvp-7w-kv4"; */
+"Rvp-7w-kv4.title" = "载入nVidia Kexts";
+
+/* Class = "NSButton"; title = "Load AMD Kexts"; ObjectID = "Ua2-LB-zIU"; */
+"Ua2-LB-zIU.title" = "载入AMD Kexts";
+
+/* Class = "NSButton"; title = "Load Ethernet Kexts"; ObjectID = "ij0-6U-Ki4"; */
+"ij0-6U-Ki4.title" = "载入网卡Kexts";
+
+/* Class = "NSButton"; title = "Load Clover Bootloader"; ObjectID = "Uux-7h-pPV"; */
+"Uux-7h-pPV.title" = "载入Clover";
+
+/* Class = "NSButton"; title = "Nightly Build"; ObjectID = "Ter-3R-x9H"; */
+"Ter-3R-x9H.title" = "每日构建";
+
+/* Class = "NSButton"; title = "Load Webdriver"; ObjectID = "BvR-0L-x9I"; */
+"BvR-0L-x9I.title" = "载入Webdriver";
+
+/* Class = "NSButtonCell"; title = "EFI"; ObjectID = "lZg-Lq-oMC"; */
+"lZg-Lq-oMC.title" = "EFI";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "CRj-Q4-2Q3"; */
+"CRj-Q4-2Q3.title" = "退出";
+
+/* Class = "NSTextField"; title = "Your System Version:"; ObjectID = "rOv-rg-tsb"; */
+"rOv-rg-tsb.title" = "系统版本:";
+
+/* Class = "NSTextField"; title = "Kext Updater Version:"; ObjectID = "SpT-Pt-9ha"; */
+"SpT-Pt-9ha.title" = "更新器版本:";
+
+/* Class = "NSTextField"; title = "Check for Updates..."; ObjectID = "PH8-bq-aSa"; */
+"PH8-bq-aSa.title" = "检测新版本...";
+
+/* Class = "NSTextField"; title = "Loads the following Kexts"; ObjectID = "axN-fO-K1a"; */
+"axN-fO-K1a.title" = "加载以下Kexts:\n\n基本Kexts\nFakeSMC, VoodooPS2, USBInjectAll\n\n声卡\nLilu, AppleALC, CodecCommander\n\n显卡\nLilu, WhateverGreen\n\n网卡\nAtherosE2200Ethernet, IntelMausiEthernet, Realtek RTL8111";
+
+/* Class = "NSMenuItem"; title = "Kext Updater"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Kext更新器";
+
+/* Class = "NSMenuItem"; title = "Quit Kext Updater"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "退出Kext更新器";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "5Vv-lz-BsD"; */
+"5Vv-lz-BsD.title" = "版权";
+
+/* Class = "NSMenuItem"; title = "About Kext Updater"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "关于Kext更新器";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Kext Updater Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Kext更新器帮助";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "Fal-I4-PZk"; */
+"Fal-I4-PZk.title" = "文本";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "查看全部";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "传信号至前面板";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "LNO-67-sPs"; */
+"LNO-67-sPs.title" = "开始";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "偏好";
+
+/* Class = "NSMenuItem"; title = "Hide Kext Updater"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "隐含Kext更新器";
+
+/* Class = "NSWindow"; title = "Kext Updater"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Kext更新器";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "隐含其它";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
+"aTl-1u-JFS.title" = "打印…";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "qIS-W8-SiK"; */
+"qIS-W8-SiK.title" = "页面设置…";
+
+/* Class = "NSMenu"; title = "Kext Updater"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Kext更新器";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "nO2-13-T2e"; */
+"nO2-13-T2e.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "YC0-NU-hrf"; */
+"YC0-NU-hrf.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "vV1-V8-mlg"; */
+"vV1-V8-mlg.title" = "选择全部";
+
+/* Class = "NSButton"; title = "Preferences"; ObjectID = "FkV-cR-cUg"; */
+"FkV-cR-cUg.title" = "首选项";
+
+/* Class = "NSMenuItem"; title = "Preferences"; ObjectID = "MFz-zY-NZW"; */
+"MFz-zY-NZW.title" = "首选项";
+
+/* Class = "NSBox"; title = "Download Path"; ObjectID = "vNE-KL-cuU"; */
+"vNE-KL-cuU.title" = "下载路径";
+
+/* Class = "NSBox"; title = "Temporary Path"; ObjectID = "bFl-t0-n15"; */
+"bFl-t0-n15.title" = "临时路径";
+
+/* Class = "NSBox"; title = "Kext Report Path"; ObjectID = "6mi-vd-B9P"; */
+"6mi-vd-B9P.title" = "Kext报告路径";
+
+/* Class = "NSBox"; title = "Misc Settings"; ObjectID = "1eE-XO-qNR"; */
+"1eE-XO-qNR.title" = "格式设置";
+
+/* Class = "NSButton"; title = "Select"; ObjectID = "QrU-2W-mgV"; */
+"QrU-2W-mgV.title" = "选择";
+
+/* Class = "NSButton"; title = "Select"; ObjectID = "N1K-oT-yi7"; */
+"N1K-oT-yi7.title" = "选择";
+
+/* Class = "NSButton"; title = "Select"; ObjectID = "sOU-Tu-UkE"; */
+"sOU-Tu-UkE.title" = "选择";
+
+/* Class = "NSButton"; title = "Reset all"; ObjectID = "FUn-NR-Kx0"; */
+"FUn-NR-Kx0.title" = "全部复位";
+
+/* Class = "NSButton"; title = "Close"; ObjectID = "Awz-dr-2YX"; */
+"Awz-dr-2YX.title" = "关闭";
+
+/* Class = "NSButton"; title = "Reset Path"; ObjectID = "yO3-zI-Syn"; */
+"yO3-zI-Syn.title" = "路径复位";
+
+/* Class = "NSButton"; title = "Reset Path"; ObjectID = "IoX-yP-64a"; */
+"IoX-yP-64a.title" = "路径复位";
+
+/* Class = "NSButton"; title = "Reset Path"; ObjectID = "es6-Rz-8tb"; */
+"es6-Rz-8tb.title" = "路径复位";
+
+/* Class = "NSCheckbox"; title = "Sound (Chime)"; ObjectID = "8f4-37-4N5"; */
+"8f4-37-4N5.title" = "声音(一致)";
+
+/* Class = "NSButton"; title = "Font Size"; ObjectID = "hLI-5S-9Cb"; */
+"hLI-5S-9Cb.title" = "字体大小";
+
+/* Class = "NSButton"; title = "Font Family"; ObjectID = "8eF-QD-xgT"; */
+"8eF-QD-xgT.title" = "字体";
+
+/* Class = "NSButton"; title = "Font Color"; ObjectID = "3t4-V2-vaD"; */
+"3t4-V2-vaD.title" = "字体颜色";
+
+/* Class = "NSButton"; title = "Theme"; ObjectID = "P7k-ox-BlE"; */
+"P7k-ox-BlE.title" = "主题";
+
+/* Class = "NSButton"; title = "Green"; ObjectID = "9ZI-aM-rRX"; */
+"9ZI-aM-rRX.title" = "绿色";
+
+/* Class = "NSButton"; title = "Red"; ObjectID = "zFG-GM-4Fd"; */
+"zFG-GM-4Fd.title" = "红色";
+
+/* Class = "NSButton"; title = "Orange"; ObjectID = "R8o-tb-VsY"; */
+"R8o-tb-VsY.title" = "橙色";
+
+/* Class = "NSButton"; title = "Yellow"; ObjectID = "sfH-wb-Swd"; */
+"sfH-wb-Swd.title" = "黄色";
+
+/* Class = "NSTextField"; title = "Network Error"; ObjectID = "8x1-7s-VXB"; */
+"8x1-7s-VXB.title" = "啊哦! 你没有连到互联网. 请检查!";
+
+/* Class = "NSButton"; title = "Theme"; ObjectID = "ZRd-dS-ETe"; */
+"ZRd-dS-ETe.title" = "主题";
+
+/* Class = "NSButton"; title = "Load Single Kext"; ObjectID = "wWK-ri-ocf"; */
+"wWK-ri-ocf.title" = "载入单Kext";
+
+/* Class = "NSButton"; title = ""reate Support Report"; ObjectID = "6xu-6D-qrC"; */
+"6xu-6D-qrC.title" = "生成报告";
+
+/* Class = "NSButton"; title = "Disk Informations"; ObjectID = "UVh-Ot-4Hi"; */
+"UVh-Ot-4Hi.title" = "磁盘信息";
+
+/* Class = "NSTextField"; title = "Translators"; ObjectID = "UVh-Ot-4Hi"; */
+"rqb-Me-eBU.title" = "翻译";
+
+/* Class = "NSTextField"; title = "Names"; ObjectID = "hD5-qY-7Qa"; */
+"hD5-qY-7Qa.title" = "Dutch:\nPortugese:\nSpanish:\nRussian:\nTurkish:\nOthers:";
+
+/* Class = "NSButton"; title = "Start"; ObjectID = "9Fd-ys-zds"; */
+"9Fd-ys-zds.title" = "开始";
+
+/* Class = "String"; title = "- Multiple Selection -"; ObjectID = "iia-01-Luc"; */
+"iia-01-Luc.title" = "- 多项选择 -";
+
+/* Class = "NSButton"; title = "Close"; ObjectID = "e2n-Jf-shk"; */
+"e2n-Jf-shk.title" = "关闭";
+
+/* Class = "NSWindow"; title = "Multiple Kext Loader"; ObjectID = "iN2-OV-lKP"; */
+"iN2-OV-lKP.title" = "多个Kext装载";
+
+/* Class = "NSButton"; title = "Notifications"; ObjectID = "dqt-Fw-kBR"; */
+"dqt-Fw-kBR.title" = "通知";
+
+/* Class = "NSButton"; title = "Show in seconds"; ObjectID = "2vt-Ai-2Vn"; */
+"2vt-Ai-2Vn.title" = "显示秒";
+
+/* Class = "NSButton"; title = "Close"; ObjectID = "xfR-P2-zyb"; */
+"xfR-P2-zyb.title" = "关闭";
+
+/* Class = "NSWindow"; title = "Exclude Kexts from Update"; ObjectID = "PFy-fC-8hd"; */
+"PFy-fC-8hd.title" = "从更新中排除Kexts";
+
+/* Class = "NSButton"; title = "Exclude Kexts"; ObjectID = "8jb-6K-m8R"; */
+"8jb-6K-m8R.title" = "排除Kexts";
+
+/* Class = "NSButton"; title = "Reset all"; ObjectID = "0l1-yK-05L"; */
+"0l1-yK-05L.title" = "全部复位";
+
+/* Class = "NSButton"; title = "Login Item"; ObjectID = "1i0-5X-jBm"; */
+"1i0-5X-jBm.title" = "登录";
+
+/* Class = "String"; title = "Check once for updates in background after every reboot."; ObjectID = "1p5-L5-bWy"; */
+"1p5-L5-bWy.title" = "每次重新引导后后台检查一次更新。";
+
+/* Class = "NSWindow"; title = "Tools"; ObjectID = "MtW-qj-vfc"; */
+"MtW-qj-vfc.title" = "工具";
+
+/* Class = "String"; title = "Install Kext for Atheros AR92xx/93xx WLan Cards (only 10.14 +)"; ObjectID = "xEk-Tu-eem"; */
+"xEk-Tu-eem.title" = "为Atheros AR92xx/93xx网卡安装Kext(仅10.14 +)";
+
+/* Class = "NSButton"; title = "Start"; ObjectID = "oA6-85-eKR"; */
+"oA6-85-eKR.title" = "开始";
+
+/* Class = "String"; title = "In case your System doesn't work with 'WhateverGreen' (WEG) you can use these obsolete Kexts instead."; ObjectID = "bGb-fz-fbsT"; */
+"bGb-fz-fbT.title" = "如果您的系统不能使用“WhateverGreen”(WEG)，您可以使用这些过时的Kexts。";
+
+/* Class = "NSButton"; title = "Close"; ObjectID = "sIg-Ow-9o7"; */
+"2rg-bv-Sk1.title" = "关闭";
+
+/* Class = "NSButton"; title = "Download"; ObjectID = "sIg-Ow-9o7"; */
+"sIg-Ow-9o7.title" = "下载";
+
+/* Class = "NSButton"; title = "Select all"; ObjectID = "AFd-uM-sOD"; */
+"AFd-uM-sOD.title" = "选择全部";
+
+/* Class = "NSButton"; title = "Deselect all"; ObjectID = "t2W-WB-76C"; */
+"t2W-WB-76C.title" = "取消所有选择";
+
+/* Class = "NSButton"; title = "Start"; ObjectID = "fuH-Rt-xfp"; */
+"fuH-Rt-xfp.title" = "开始";
+
+/* Class = "NSButton"; title = "Start"; ObjectID = "JFY-Je-icz"; */
+"JFY-Je-icz.title" = "开始";
+
+/* Class = "NSButton"; title = "Start"; ObjectID = "gpW-JE-l20; */
+"gpW-JE-l20.title" = "开始";
+
+/* Class = "String"; title = "If your computer has a problem with sleep this could help. Hibernatemode will be set to 0 and the Sleepimage will be replaced with a write protected 0-byte file."; ObjectID = "3A1-zG-sst"; */
+"3A1-zG-sst.title" = "如果你的电脑有睡眠问题，这可能会有帮助。Hibernatemode将设置为0,Sleepimage将被替换为一个0字节的写保护文件。";
+
+/* Class = "String"; title = "Rebuild Kextcache and repair Permissions in /S/L/E."; ObjectID = "Sfj-ZG-9YL"; */
+"Sfj-ZG-9YL.title" = "在/S/L/E中重建Kext缓存和修复权限。";
+
+/* Class = "NSButton"; title = "Tools"; ObjectID = "jS5-iy-k0j"; */
+"jS5-iy-k0j.title" = "工具";
+
+/* Class = "String"; title = "Show all loaded non Apple Kexts."; ObjectID = "jdK-uO-WmI"; */
+"jdK-uO-WmI.title" = "显示所有载入的非苹果Kexts。";
+
+/* Class = "String"; title = "Create a Systemreport for further analyze. No private Data (Serial Number for example) will be included."; ObjectID = "EyH-wn-td0"; */
+"EyH-wn-td0.title" = "创建一个系统报告以便进一步分析。不包括私人数据(例如序列号)。";
+
+/* Class = "String"; title = "If you don´t want to install lspci Package (needed for more detailed Systemreport) click this."; ObjectID = "4JZ-eI-kyQ"; */
+"4JZ-eI-kyQ.title" = "如果您不想安装lspci包(需要安装更详细的系统报告)，请单击此处。";
+
+/* Class = "NSCheckbox"; title = "No 'lspci'"; ObjectID = "eGv-hR-SJQ"; */
+"eGv-hR-SJQ.title" = "没有'lspci'";
+
+/* Class = "NSButton"; title = "Uninstall lspci"; ObjectID = "PfJ-hU-reY"; */
+"PfJ-hU-reY.title" = "卸载lspci";
+
+/* Class = "NSButton"; title = "Uninstall lspci"; ObjectID = "dZv-5k-XqK"; */
+"dZv-5k-XqK.title" = "卸载lspci";
+
+/* Class = "NSButton"; title = "Mount"; ObjectID = "EcV-Tl-P8I"; */
+"EcV-Tl-P8I.title" = "挂载";
+
+/* Class = "NSButton"; title = "Unmount"; ObjectID = "KIr-FF-qmP"; */
+"KIr-FF-qmP.title" = "卸载";
+
+/* Class = "NSButton"; title = "Unmount all"; ObjectID = "y8J-CB-rsj"; */
+"y8J-CB-rsj.title" = "全部卸载";
+
+/* Class = "NSString"; title = "Mount EFI from another Harddisk."; ObjectID = "v0C-aR-2p7"; */
+"v0C-aR-2p7.title" = "挂载其他硬盘的EFI。";
+
+/* Class = "String"; title = "Reset Adminuser"; ObjectID = "5YU-ol-hbz"; */
+"5YU-ol-hbz.title" = "重置管理员";
+
+/* Class = "String"; title = "Ask again for keychain"; ObjectID = "4RL-8F-a2T"; */
+"4RL-8F-a2T.title" = "再次请求钥匙串";
+
+/* Class = "String"; title = "Username"; ObjectID = "RFj-8t-JGA"; */
+"RFj-8t-JGA.title" = "用户名";
+
+/* Class = "String"; title = "Admin Status"; ObjectID = "5e5-Z6-hQ5"; */
+"5e5-Z6-hQ5.title" = "管理员状态";
+
+/* Class = "String"; title = "Wrong Password. Please try again."; ObjectID = "aoE-2N-iTU"; */
+"aoE-2N-iTU.title" = "错误的密码。请再试一次。";
+
+/* Class = "String"; title = "Password accepted."; ObjectID = "7Id-v8-TlT"; */
+"7Id-v8-TlT.title" = "密码接受。";
+
+/* Class = "String"; title = "Kext Updater wants to make changes."; ObjectID = "E1c-X4-wcR"; */
+"E1c-X4-wcR.title" = "Kext更新器希望进行更改。";
+
+/* Class = "String"; title = "Enter your password to allow this."; ObjectID = "XdL-oe-UzV"; */
+"XdL-oe-UzV.title" = "输入您的密码以允许此操作。";
+
+/* Class = "String"; title = "Username:"; ObjectID = "UHx-x5-tIW"; */
+"UHx-x5-tIW.title" = "用户名:";
+
+/* Class = "String"; title = "Password:"; ObjectID = "oYT-cS-tXK"; */
+"oYT-cS-tXK.title" = "密码:";
+
+/* Class = "String"; title = "Cancel"; ObjectID = "5pc-Bh-aSH"; */
+"5pc-Bh-aSH.title" = "取消";
+
+/* Class = "String"; title = "Do you want ..."; ObjectID = "kJb-7j-om1"; */
+"kJb-7j-om1.title" = "您是否希望在将来使用密钥链来永久安全地保存密码?这样做的好处是，您只需输入一次密码，之后就不会再被要求输入了。除非你更改密码。然后Kext更新器将再次询问。";
+
+/* Class = "NSButton"; title = "Yes"; ObjectID = "A6O-NO-2vE"; */
+"A6O-NO-2vE.title" = "是";
+
+/* Class = "NSButton"; title = "No"; ObjectID = "WpE-Au-SJa"; */
+"WpE-Au-SJa.title" = "否";
+
+/* Class = "NSButton"; title = "Start"; ObjectID = "RIh-nc-TGj"; */
+"RIh-nc-TGj.title" = "开始";
+
+/* Class = "NSButton"; title = "Uninstall"; ObjectID = "TIs-Fo-edp"; */
+"TIs-Fo-edp.title" = "卸载";
+
+/* Class = "NSTextField"; title = "Install Kext to enable SATA HotPlug on Mojave again."; ObjectID = "Lcw-db-4Jj"; */
+"Lcw-db-4Jj.title" = "安装Kext，再次启用Mojave上的SATA热插拔。";
+
+/* Class = "String"; title = "Bootloader"; ObjectID = "lMm-S6-9PF"; */
+"lMm-S6-9PF.title" = "    引导模式";
+
+/* BASH Part - Do not remove this Line! */
+alarm= "注意，因为它需要最新的Lilu.Kext!如果你没有了,你启动后将得到一个黑色的屏幕上!请通过单Kext选项下载Lilu，并在下次重新启动前安装它!但是如果你不想更新。请忽略这个信息。";
+checkinet= "检查您的互联网连接或可能更新服务器关闭!程序将在5秒后关闭。";
+ozmosis= "注意!因为你使用的是Ozmosis,´请确保你没有相同的KEXTs在系统中。一个KEXT不应该同时存储在ROM、EFI分区和S/L/E中。";
+greet1= "早上好$osuser.让我们看看有没有什么新的东东给你.我们开始吧...";
+greet2= "中午好$osuser.让我们看看有没有什么新的东东给你.我们开始吧...";
+greet3= "晚上好$osuser.让我们看看有没有什么新的东东给你.我们开始吧...";
+latest= "最新版本已经下载。如果已经安装，请将文件夹从计算机中删除";
+upd= "Checking Kext Updater正在检查Kext更新器...";
+upd1= "有更新可用!";
+upd2= "你用的版本... = ";
+upd3= "服务器版本... = ";
+upd4= "你用的都是最新的。";
+checkver= "检测中 ";
+lastcheck= "最后检测";
+apfstext0= "√ 你用的都是最新的。";
+apfstext1= "已下载了一个新的apfs.efi版本。";
+apfsinit= "下载了一个新的apfs.efi的版本。";
+webdrload= " 下载中";
+webdrloaded= "👍🏼 完成。";
+loading= "下载文件中。";
+dloading= "下载中。";
+dupekext= "最新的版本已经下载到你的电脑上了。如果已经安装，请从桌面上删除文件夹。";
+obsolete1= "注意! ! !\n请务必删除您的旧文件";
+obsolete2= "and use";
+obsolete3= "instead.";
+nowebselected= "错误。没有选择Webdriver!";
+efimounted= "卸载EFI";
+efinotmounted= "挂载EFI";
+nokextselected= "没有选中Kext";
+rebuildcache= "重建Kext缓存中。这可能需要一段时间。请耐心点，不要打断这个过程。";
+error= "发生错误。请再试一次。";
+kextloaded= "已载入第三方Kexts";
+hdaloaded= "已载入。";
+hdanotloaded= "没有载入。";
+reportpath= "文件已保存到:";
+massdlready= "准备好了。按下开始键。";
+notify1= "新Kext更新: ";
+notify2= "Kext下载完成。";
+notify3= "报告已创建。";
+daemonnotify= "有新的更新。请打开Kext更新器。";
+daemonnotifyclose= "关闭";
+openkextupdater= "打开Kext更新器";
+atherosinstall= "安装Atheros40.kext用于AR92xx/93xx网卡，需要系统10.14或以上。这可能需要一段时间。请耐心点，不要打断这个过程。";
+fixsleepimage= "现在将使用Sleepimage修复程序。";
+thirdparty= "加载非苹果Kexts:";
+sysreport= "创建概要文件。这可能需要一段时间。";
+lspciinstalling= "lspci现正在安装。这可能需要一些时间。";
+nolspciinstalled= "无法卸载。lspci不在您的系统上。";
+uninstalllspci= "lspci将被卸载。请耐心等待。";
+collectingdata= "获取系统信息。请耐心等待。";
+createreport= "HTML格式的系统报告将建立...";
+updatepcidb= "更新PCI设备数据。";
+efineedsmounted= "需要挂载EFI来创建报告。";
+sipwarn= "您的SIP状态不允许安装第三方Kexts。请停用SIP以获取PCI设备列表。目前，该报告将在没有PCI设备信息的情况下构建。如果您想禁用SIP，请将CsrActiveConfig设置为0x67。";
+reportdone= "\n完成了。现在您可以在桌面上找到一个zip归档文件(System-Report.zip)。zip的内容如下:\n\n- 硬件和操作系统信息\n- 加载Kexts\n- Kext路径\n- PCI设备(仅当您安装了lspci时)\n-三叶草文件夹(SerialNumber, BoardSerialNumber, SmUUID, MLB 和 CustomUUID plist被替换为0以使其匿名).\n\n请将此档案上载到您的Hackintosh论坛更好地分析您的问题。";
+reportmsg= "报告已建立。";
+wrongpass= "错误的密码。请再试一次。";
+warnnouser= "注意!没有指定用户。您的当前用户将被使用。";
+noadmin= "寄存用户没有管理权限。Kext更新器将只工作有限。请到菜单“重置管理用户”并定义另一个。";
+textadmin= "如果您的当前帐户没有管理权限，请在下一行输入您的管理帐户的用户名。如果您输入错误(或您按下“取消”)，您的实际用户将被使用(但如果该用户没有管理权限，Kext更新器将只工作有限)。您可以在“重置管理员”菜单项中的任何时间重置它。";
+answeradmin="请输入用户名";
+textpassword= "请输入管理员密码";
+usernoexist= "该用户不存在。请再试一次。";
+ahciportinstall= "为Mojave安装SATA热插拔支持。这可能需要一段时间。请耐心等待，不要打断这个过程。";
+ahciportuninstall= "移除Mojave的SATA热插拔支持。这可能需要一段时间。请耐心等待，不要打断这个过程。";
