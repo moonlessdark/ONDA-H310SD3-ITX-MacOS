@@ -1,2 +1,4 @@
 # ONDA-H310SD3-ITX-MacOS
 MacOS(ONDA H310SD3-ITX I3-8100)
+
+个人使用，用于备份
